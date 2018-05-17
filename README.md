@@ -9,11 +9,18 @@ This project is to provide an ability to become someone:
  
 We are totally anonymous, all conversions are not recorded in the server but you phone.
 
-## Virtual social circle
+## Virtual social circle template
 Define a simulated scene for your roles.
   - Should have clear relationship between the roles.
-  - Has its own salient activities
-  - No interaction with other circle
+  - Has its own salient activities.
+  - No interaction with other circles.
+  - Should has background with multiple forms of expression
+    - Text
+    - Picture like GIF
+    - Video
+
+## Virtual social circle 
+Instance of circle template, anyone can join one of the circle's role and interacte with other roles.
  
 ## Virtual social role
 Define a simulated role lives in the circle.
